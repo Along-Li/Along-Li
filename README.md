@@ -3,7 +3,7 @@
 
 
 - 🔭 20 years old, a student
-- 🌱 Java for project and C++ for algorithm
+- 🌱 Java is work and C + + is life
 - 💻 Using CentOS and  Windows.
 - 📫 341347349@qq.com
 - 🥰 oh my tt i can't leave u,plz take me go
