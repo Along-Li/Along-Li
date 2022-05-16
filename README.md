@@ -2,7 +2,7 @@
 
 
 
-- 🔭 At the age of 20, he is a student majoring in software engineering
+- 🔭 about me -> a student majoring in software engineering
 - 🌱 Java is work and C + + is life
 - 💻 Using CentOS and  Windows.
 - 📫 341347349@qq.com
