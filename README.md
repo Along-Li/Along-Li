@@ -1,5 +1,5 @@
 <!-- ###  👋 A'Long here . -->
-### :airplane:  A growing developer
+### :airplane:  A Growing Developer && Keep Moving
 ____________________________________________
 
 <!-- - 🔭 about me -> a student majoring in software engineering
