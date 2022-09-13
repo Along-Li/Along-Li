@@ -1,6 +1,7 @@
-<!-- ###  👋 A'Long here . -->
-![3297fad256645201adcae6f6fd7da5e0](https://user-images.githubusercontent.com/76742505/189944399-6c8ef954-a8b3-466f-b207-6bd97b3bc707.gif)
-### :airplane:  A Growing Developer
+
+![15602467309163633](https://user-images.githubusercontent.com/76742505/189945723-e8dbaab4-5c51-4a16-9155-1a389ac5ad2f.gif)![15602467303476011](https://user-images.githubusercontent.com/76742505/189945787-67d73970-5a47-4ad8-8e2c-0e0e6a0179e6.gif) ![a95cd783c43676d4918dbecd47beaec6](https://user-images.githubusercontent.com/76742505/189945081-406fd191-6d38-4074-a99f-7beb5fa26f2b.gif)
+ ###  👋 A'Long here . 
+<!-- ### :airplane:  A Growing Developer --> 
 
 ____________________________________________
 
@@ -39,4 +40,4 @@ ___________________________
     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-    -Buddha bless, there are no bugs in the code-
+    -Buddha bless, there are no bugs in the cod
