@@ -1,5 +1,6 @@
 <!-- ###  👋 A'Long here . -->
-### :airplane:  A Growing Developer
+### :airplane:  A Growing Developer   ![3297fad256645201adcae6f6fd7da5e0](https://user-images.githubusercontent.com/76742505/189944399-6c8ef954-a8b3-466f-b207-6bd97b3bc707.gif)
+
 ____________________________________________
 
 <!-- - 🔭 about me -> a student majoring in software engineering
