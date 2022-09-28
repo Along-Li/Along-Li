@@ -40,4 +40,4 @@ ___________________________
     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-    -Buddha bless, there are no bugs in the cod
+    -Buddha bless, there are no bugs in the code
